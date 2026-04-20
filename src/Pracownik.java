@@ -18,7 +18,7 @@ public class Pracownik {
     public double obliczKosztMiesieczny() {
         return stawkaBazowa;
     }
-    public String przedtawSie() {
+    public String przedstawSie() {
         return "Nazywam się: " + imie + " " + nazwisko;
     }
 
